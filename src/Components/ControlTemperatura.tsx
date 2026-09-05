@@ -47,7 +47,7 @@ export const ControlTemperatura = () => {
       <div className="my-6 px-2">
         <div className="relative flex items-center">
           {/* Fondo Gradiente */}
-          <div className="h-2.5 w-full rounded-full bg-gradient-to-r from-[#007BFF] via-[#28A745] via-50% to-[#FF6B00]" />
+          <div className="h-2.5 w-full rounded-full bg-linear-to-r from-[#007BFF] via-[#28A745] via-50% to-[#FF6B00]" />
 
           {/* Indicador / Círculo Móvil */}
           <div
